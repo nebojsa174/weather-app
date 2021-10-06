@@ -1,5 +1,7 @@
 # Weather Application available [here](https://weatherapplicationreact.netlify.app/)
 
+![example](https://user-images.githubusercontent.com/80694464/136257509-daa8c9ff-50f9-47e6-9e97-32199a715da5.jpg)
+
 
 # Getting Started with Create React App
 
